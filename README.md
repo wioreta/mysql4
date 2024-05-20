@@ -121,7 +121,7 @@ SELECT MAX(gaji) AS terbesar FROM pegawai;
 
 # Soal Latihan Praktikum ( Hewan )
 
-![alt text](Screenshot/TugasPraktikumH.png)
+![alt text](Screenshot/TugasPraktikumH.jpg)
 
 **Perintah SQL :**
 
